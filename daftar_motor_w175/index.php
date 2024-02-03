@@ -5,7 +5,7 @@ $motor = [
         "tahun" => "2023", 
         "warna" => "Metalic Resplendent Silver", 
         "harga" => "35.100.000",
-        "gambar" => "123.jpg"
+        "gambar" => "W175SE.png"
     ],
     [
         "nama" => "W175 TR", 
