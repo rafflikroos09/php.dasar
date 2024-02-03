@@ -1,0 +1,12 @@
+  <ul>
+        <?php foreach ($mahasiswa as $mhs) : ?>
+            <li><?= $mhs; ?></li>
+        <?php endforeach; ?>
+    </ul>
+
+     <ul>
+        <li><?= $mahasiswa2 [0]; ?></li>
+        <li><?= $mahasiswa2 [1]; ?></li>
+        <li><?= $mahasiswa2 [2]; ?></li>
+        <li><?= $mahasiswa2 [3]; ?></li>
+    </ul>
